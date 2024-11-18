@@ -4,7 +4,7 @@ Je suis Joao Dinis, petit dev étudiant à l'EFREI qui s'intéresse à divers la
 J'ai dev différentes choses sur différents engines et je souhaite m'ouvrir au dev d'applications, elles font parties de nos vies.<br>
 <hr><br>
 
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/Anaconda-lightgreen?logo=Anaconda)
 ![Static Badge](https://img.shields.io/badge/Python-darkblue?logo=Python)
