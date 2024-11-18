@@ -1,6 +1,6 @@
 Salutations,
 
-Je suis Joao Dinis, un p'tit geek dev étudiant à EFREI qui s'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet.<br>
+Je suis Joao Dinis, un p'tit étudiant à EFREI qui s'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet.<br>
 J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je souhaite m'ouvrir au dev d'applications et au dev de jeux-vidéos, étant donné qu'ils font parties de nos vies.<br>
 <hr><br>
 
