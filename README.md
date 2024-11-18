@@ -2,7 +2,8 @@ Salutations,
 
 Je suis DINIS Joao, petit dev apprentit qui s'intéresse à divers langages, centrés sur la Programmation-Orienté-Objet notamment.<br>
 J'ai dev différentes choses sur différents engines et je souhaite m'ouvrir au dev d'applications, elles font parties de nos vies.<br>
-<hr>
+<hr><br>
+
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=plastic&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/Anaconda-lightgreen?logo=Anaconda)
