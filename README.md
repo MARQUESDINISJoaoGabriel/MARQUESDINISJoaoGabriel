@@ -16,4 +16,5 @@ J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je
 ![Static Badge](https://img.shields.io/badge/Java-darkred?logo=coffeescript)
 ![Static Badge](https://img.shields.io/badge/mysql-white?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)
-
+![Static Badge](https://img.shields.io/badge/NGINX-green?logo=nginx)
+![Static Badge](https://img.shields.io/badge/Apache_Cordova-000000?logo=apachecordova)
