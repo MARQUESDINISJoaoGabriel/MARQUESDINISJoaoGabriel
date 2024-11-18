@@ -1,11 +1,12 @@
 Salutations,
 
 Je suis Joao Dinis, un p'tit geek dev étudiant à EFREI qui s'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet.<br>
-J'ai dev différentes choses sur différents engines et je souhaite m'ouvrir au dev d'applications, elles font parties de nos vies.<br>
+J'ai dev différentes choses sur différents engines (Unity, Ren'Py, ...)et je souhaite m'ouvrir au dev d'applications, étant donné qu'elles font parties de nos vies.<br>
 <hr><br>
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?logo=lua)
+![Static Badge](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Anaconda-lightgreen?logo=Anaconda)
 ![Static Badge](https://img.shields.io/badge/Python-darkblue?logo=Python)
 ![Static Badge](https://img.shields.io/badge/HTML5-f59b67?logo=html5)
@@ -15,3 +16,4 @@ J'ai dev différentes choses sur différents engines et je souhaite m'ouvrir au 
 ![Static Badge](https://img.shields.io/badge/Java-darkred?logo=coffeescript)
 ![Static Badge](https://img.shields.io/badge/mysql-white?logo=mysql)
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)
+
