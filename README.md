@@ -1,6 +1,6 @@
 Salutations,
 
-Je suis Joao Dinis, petit dev étudiant à l'EFREI qui s'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet.<br>
+Je suis Joao Dinis, un p'tit geek dev étudiant à l'EFREI qui s'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet.<br>
 J'ai dev différentes choses sur différents engines et je souhaite m'ouvrir au dev d'applications, elles font parties de nos vies.<br>
 <hr><br>
 
