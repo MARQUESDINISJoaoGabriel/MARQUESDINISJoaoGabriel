@@ -4,6 +4,7 @@ Je suis Joao Dinis, un p'tit étudiant à EFREI qui s'intéresse à divers langa
 J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je souhaite m'ouvrir au dev d'applications et au dev de jeux-vidéos, étant donné qu'ils font parties de nos vies.<br>
 <hr><br>
 
+![Static Badge](https://img.shields.io/badge/GitHub-181717?logo=github)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript)
 ![Static Badge](https://img.shields.io/badge/Lua-blue?logo=lua)
 ![Static Badge](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white)
@@ -18,3 +19,7 @@ J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je
 ![Static Badge](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)
 ![Static Badge](https://img.shields.io/badge/NGINX-green?logo=nginx)
 ![Static Badge](https://img.shields.io/badge/Apache_Cordova-000000?logo=apachecordova)
+![Static Badge](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PythonAnywhere-1D9FD7?logo=pythonanywhere&logoColor=white)
+
+
