@@ -21,5 +21,6 @@ J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je
 ![Static Badge](https://img.shields.io/badge/Apache_Cordova-000000?logo=apachecordova)
 ![Static Badge](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/PythonAnywhere-1D9FD7?logo=pythonanywhere&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PHP-%235a5573?style=flat&logo=PHP&logoColor=white)
 
 
