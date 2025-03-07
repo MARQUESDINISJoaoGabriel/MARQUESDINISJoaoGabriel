@@ -2,7 +2,7 @@
 ## Qui suis-je ?
 
 Je suis Joao Dinis, un développeur en deuxième année de Bachelor grade de license d'ingénierie & numérique à l'EFREI, et je m'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet, le développement web et application, la cybersecurité, le cloud et aux bases de données.<br>
-J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je souhaite m'ouvrir au dev d'applications, de sites webs et au dev de jeux-vidéos, étant donné qu'ils font partie de nos vies.<br>
+J'ai développé différents jeux sur différents engines (RStudio, Ren'Py, Python,...)et je souhaite m'ouvrir au dev d'applications, de sites webs et au dev de jeux-vidéos, étant donné qu'ils font partie de nos vies.<br>
 
 # Compétences acquises / en apprentissage  
 
