@@ -14,11 +14,14 @@ J'ai dev différentes choses sur différents engines (RStudio, Ren'Py, ...)et je
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=plastic&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-lightgreen?logo=Anaconda)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c3d4e6?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql) 
+![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white)
+
 
 ## 💻 Langages de Programmation  
-![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) ![Ren'Py](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white) 
-![GNU Bash](https://img.shields.io/badge/GNUBash-%234EAA25?style=plastic&logo=gnubash&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-darkred?logo=coffeescript) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea)  
+![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![Static Badge](https://img.shields.io/badge/C%23-%2337814A?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) 
+![Ren'Py](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white) <br>
+![GNU Bash](https://img.shields.io/badge/GNUBash-%234EAA25?style=plastic&logo=gnubash&logoColor=white)  ![Java](https://img.shields.io/badge/Java-darkred?logo=coffeescript) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea) 
+
 
 
 # Stats Github 
