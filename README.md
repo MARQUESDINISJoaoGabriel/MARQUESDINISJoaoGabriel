@@ -14,12 +14,16 @@ J'ai développé différents jeux sur différents engines (RStudio, Ren'Py, Pyth
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github) ![Static Badge](https://img.shields.io/badge/Google%20Cloud-%234285F4?style=plastic&logo=googlecloud&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=plastic&logo=mongodb&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-lightgreen?logo=Anaconda)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-c3d4e6?logo=postgresql) ![MySQL](https://img.shields.io/badge/MySQL-white?logo=mysql) 
-![Static Badge](https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white)
+![dotnet](https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white)
+![ngrok](https://img.shields.io/badge/ngrok-1F1E37?logo=ngrok&logoColor=white)
 
 
 ## 💻 Langages de Programmation  
-![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![Static Badge](https://img.shields.io/badge/C%23-%2337814A?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) ![Lua](https://img.shields.io/badge/Lua-blue?logo=lua) 
-![Ren'Py](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white) <br>
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=AndroidStudio&logoColor=white)
+![Kotline](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![Static Badge](https://img.shields.io/badge/C%23-%2337814A?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) <br>![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white)
+![Ren'Py](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white) 
 ![GNU Bash](https://img.shields.io/badge/GNUBash-%234EAA25?style=plastic&logo=gnubash&logoColor=white)  ![Java](https://img.shields.io/badge/Java-darkred?logo=coffeescript) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea) 
 
 
