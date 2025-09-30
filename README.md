@@ -21,7 +21,7 @@ J'ai développé différents jeux sur différents engines (RStudio, Ren'Py, Pyth
 ## 💻 Langages de Programmation  
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=AndroidStudio&logoColor=white)
 ![Kotline](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![Static Badge](https://img.shields.io/badge/C%23-%2337814A?logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=plastic&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) <br>![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
+![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![Static Badge](https://img.shields.io/badge/C%23-%2337814A?logo=c&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) <br>![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white) 
 ![GNU Bash](https://img.shields.io/badge/GNUBash-%234EAA25?style=plastic&logo=gnubash&logoColor=white)  ![Java](https://img.shields.io/badge/Java-darkred?logo=coffeescript) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-black?logo=intellijidea) 
