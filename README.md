@@ -2,7 +2,7 @@
 ## Qui suis-je ?
 
 Je suis Joao Dinis, un développeur chez Société Générale et M1 Manager Full Stuck à l'EFREI, et je m'intéresse à divers langages. Centré sur la Programmation-Orienté-Objet, le développement web et application, la cybersecurité, le cloud et aux bases de données. Passioné du Web, de la Radio et d'Internet.<br>
-J'ai développé différents jeux sur différents engines (RStudio, Ren'Py, Python,...)et je souhaite m'ouvrir au dev d'applications, de sites webs et au dev de jeux-vidéos, étant donné qu'ils font partie de nos vies.<br>
+J'ai développé différents jeux sur différents engines (RStudio, Ren'Py, Python,...), des apps, l'IA m'intéresse dans son concept de Machine-Learning ainsi qu'aux applis webs, de sites webs et au dev de jeux-vidéos, étant donné qu'ils font partie de nos vies.<br>
 
 # Compétences acquises / en apprentissage  
 
@@ -21,7 +21,7 @@ J'ai développé différents jeux sur différents engines (RStudio, Ren'Py, Pyth
 
 ## 💻 Langages de Programmation  
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=AndroidStudio&logoColor=white)
-![Kotline](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-darkblue?logo=Python) ![Static Badge](https://img.shields.io/badge/C%23-%2337814A?logo=c&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white) <br>![Lua](https://img.shields.io/badge/Lua-blue?logo=lua)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white)
 ![Ren'Py](https://img.shields.io/badge/Ren'Py-ad7ba3?logo=ren'py&logoColor=white) 
