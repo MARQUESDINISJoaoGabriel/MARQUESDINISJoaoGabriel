@@ -30,5 +30,4 @@ J'ai développé différents jeux sur différents engines, des apps, l'IA m'int�
 
 
 # Stats Github 
-Vous trouverez ici mes statistiques github, elle ne sont pas toutes présentes!
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MARQUESDINISJoaoGabriel&theme=dark&show_icons=true)
